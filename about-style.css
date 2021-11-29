@@ -26,15 +26,12 @@ ul {
     text-align: center;
 }
 
-#Link:hover{
-    zoom: 110%;
-}
-
 #home {
     float: left;
     width: 25%;
     height: 50px;
     font: bold 18px arial, verdana;
+    zoom: 110%;
 }
 
 #about {
@@ -42,6 +39,7 @@ ul {
     width: 25%;
     height: 50px;
     font: bold 18px arial, verdana;
+    zoom: 110%;
 }
 
 #projects {
@@ -49,6 +47,7 @@ ul {
     width: 25%;
     height: 50px;
     font: bold 18px arial, verdana;
+    zoom: 110%;
 }
 
 #skills {
@@ -56,6 +55,7 @@ ul {
     width: 25%;
     height: 50px;
     font: bold 18px arial, verdana;
+    zoom: 110%;
 }
 
 .Main {
