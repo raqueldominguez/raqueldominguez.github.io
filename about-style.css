@@ -52,3 +52,10 @@ ul {
     height: 50px;
     font: bold 18px arial, verdana;
 }
+
+#tab {
+    margin-left: 40px;
+}
+#tab1{
+    margin-left: 60px;
+}
