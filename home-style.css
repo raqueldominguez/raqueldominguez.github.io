@@ -54,7 +54,9 @@ ul {
 }
 
 img {
-    height: 500px;  
+    height: 500px;
+    float: left;
+    margin: 0 15px 0 0;
 }
 
 .Main{
