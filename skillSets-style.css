@@ -31,7 +31,10 @@ ul {
     width: 25%;
     height: 50px;
     font: bold 18px arial, verdana;
-    zoom: 110%;
+}
+
+#home:hover{
+    zoom:110%
 }
 
 #about {
@@ -39,7 +42,10 @@ ul {
     width: 25%;
     height: 50px;
     font: bold 18px arial, verdana;
-    zoom: 110%;
+}
+
+#about:hover {
+    zoom: 110%
 }
 
 #projects {
@@ -47,7 +53,10 @@ ul {
     width: 25%;
     height: 50px;
     font: bold 18px arial, verdana;
-    zoom: 110%;
+}
+
+#projects:hover {
+    zoom: 110%
 }
 
 #skills {
@@ -55,5 +64,8 @@ ul {
     width: 25%;
     height: 50px;
     font: bold 18px arial, verdana;
-    zoom: 110%;
+}
+
+#skills:hover {
+    zoom: 110%
 }
