@@ -26,7 +26,7 @@ ul {
     text-align: center;
 }
 
-#Link.hover{
+#Link:hover{
     zoom: 110%;
 }
 
