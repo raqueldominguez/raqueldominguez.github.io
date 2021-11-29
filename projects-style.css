@@ -26,6 +26,10 @@ ul {
     text-align: center;
 }
 
+#Link.hover{
+    zoom: 110%;
+}
+
 #home {
     float: left;
     width: 25%;
