@@ -2,3 +2,7 @@
 {
     background-color: silver;
 }
+
+li a {
+    text-decoration: none;
+}
