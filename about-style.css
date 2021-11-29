@@ -29,22 +29,26 @@ ul {
     float: left;
     width: 25%;
     height: 50px;
+    font: bold 18px arial, verdana;
 }
 
 #about {
     float: left;
     width: 25%;
     height: 50px;
+    font: bold 18px arial, verdana;
 }
 
 #projects {
     float: left;
     width: 25%;
     height: 50px;
+    font: bold 18px arial, verdana;
 }
 
 #skills {
     float: left;
     width: 25%;
     height: 50px;
+    font: bold 18px arial, verdana;
 }
