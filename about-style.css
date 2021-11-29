@@ -1,6 +1,14 @@
-﻿body
-{
+﻿body {
+    background-color: black;
+    color: ghostwhite;
+}
 
+#Link {
+    border-radius: 20px;
+    background-color: white;
+    margin: 25px;
+    padding: 20px;
+    text-align: center;
 }
 
 h1 {
