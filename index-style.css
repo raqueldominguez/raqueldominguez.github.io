@@ -6,3 +6,11 @@
 li a {
     text-decoration: none;
 }
+
+#Link {
+    border-radius: 20px;
+    background-color: white;
+    margin: 25px;
+    padding: 20px;
+    text-align: center;
+}
