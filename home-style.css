@@ -2,6 +2,12 @@
 {
 }
 
+h1 {
+    text-align: center;
+    font-size: 300%;
+    color: darkslategrey;
+}
+
 img {
     align-content: center;
     height: 300px;
