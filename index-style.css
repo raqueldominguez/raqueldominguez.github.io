@@ -24,3 +24,27 @@ ul {
     padding: 20px;
     text-align: center;
 }
+
+#home {
+    float: left;
+    width: 25%;
+    height: 50px;
+}
+
+#about {
+    float: left;
+    width: 25%;
+    height: 50px;
+}
+
+#projects {
+    float: left;
+    width: 25%;
+    height: 50px;
+}
+
+#skills {
+    float: left;
+    width: 25%;
+    height: 50px;
+}
